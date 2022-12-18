@@ -1,0 +1,9 @@
+---
+description: The idea Behind ETX Infinity Gaming
+---
+
+# 🎮 7.0  ETX INFINITY GAMING
+
+Gaming has become a mainstream form of entertainment, and a big business; in turn, gamers are a new demographic, one that’s more diverse than ever. Current statistics show that there is an average of around 3.4 billion gamers around the world with Asia ranking as the largest gaming market. Video games have grown so much recently, both as a hobby and an industry. Right now, the music and movie industry put together earn less than video game companies. However, for the people playing, it’s not just about the money but video games help bring people together as one community and compete for legacies, this helps in people knowing the existence of the first decentralized gaming cryptocurrency platform ETX Infinity.
+
+ETX Infinity is a project created to be an active participant in the gaming industry, contributing to the development of e-sports and creating communities and higher chances that allow players and content creators to be able to monetize their careers in a better way. ETX Infinity is basically a project that allow world gamers to get in one place and showcase their talents in gaming with huge rewards that will be given also.
