@@ -1,8 +1,4 @@
----
-description: Introduction to the Idea of Sports TV in Crypto
----
-
-# 📺 5.0 ETX TV
+# 🕋 5.0 ETW Infinity
 
 The global sports industry is in the midst of a considerable transformation. The effects of the Covid-19 pandemic, combined with a market that comprises an increasing proportion of tech-savvy millennials, is changing the way sport is consumed and supported around the world. While the pandemic certainly had a big impact on revenues in the short term, the long-term driver of overall change is the increasing move towards streamed content. Such a rise was in part fueled by imposed lockdowns. Relative normalcy resumed; however, a continued increase is expected with the global streaming market projected to grow by 21.3% by the year 2030.
 
