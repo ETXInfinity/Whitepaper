@@ -6,7 +6,7 @@ description: Bring Gaming Experience into Blockchain
 
 ### ETW Website
 
-Link: etwinfinity.com
+Link:[etwinfinity.com](https://etwinfinity.com/)
 
 ### ETW TOKEN
 
